@@ -1,28 +1,29 @@
-# 👋 Hi, I’m Arnaldo
+# 👋🏽 Hi, I’m Arnaldo
 
 ## Who am I?
 
-- 👨‍💻 Data Scientist Student.
+- 🧑🏽‍🏫 Teacher.
 - 📊 Power System consultant.
+- 👨🏽‍💻 Data Scientist Student.
 - 📚 Researcher.
-- 👨‍🏫 Teacher.
-- 👨‍🎓 Bachelor of Electrical Engineering -UFU/INSA Lyon.
+- 🧑🏽‍🏫 Mentor in Productivity and Financial Education.
+- 👨🏽‍🎓 Bachelor of Electrical Engineering -UFU/INSA Lyon.
 - 🎓 Master in Electrical Engineering - UFU.
 - 🍾 PHD in Electrical Engineering - UFU/UofA.
 
-## Skills 👩‍💻
+## Skills 👨🏽‍💻
 
 - ⚡ ATPDraw
 - ⚙️ Finite Element Analysis
-- 🐍 Python.
-- 🧮 Power BI.
+- 🐍 Python
+- 🧮 Power BI
 - 📊 Data Visualization
 
 ## Find me around the world 🌎
 
-[Linkedin](https://www.linkedin.com/in/arnaldo-rosentino/)
-[Instagram](https://www.instagram.com/arnaldo.rosentino/)
-[Twitter](https://twitter.com/arnaldojpr/status/635559102899425281)
+* [Linkedin](https://www.linkedin.com/in/arnaldo-rosentino/)
+* [Instagram](https://www.instagram.com/arnaldo.rosentino/)
+* [Twitter](https://twitter.com/arnaldojpr/status/635559102899425281)
 
 <!---
 arnaldorosentino/arnaldorosentino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
