@@ -2,30 +2,27 @@
 
 ## Who am I?
 
-- 👩‍💻 Data Scientist 🥰.
-- 📊 Business consultant.
+- 👨‍💻 Data Scientist Student.
+- 📊 Power System consultant.
 - 📚 Researcher.
-- 👩‍🏫 Teacher.
-- 👩‍🎓 Bachelor of Statistics -UFSCar.
-- 🎓 Master in Statistic - ICMC-USP.
-- 🍾 PHD in Statistic - ICMC-USP.
+- 👨‍🏫 Teacher.
+- 👨‍🎓 Bachelor of Electrical Engineering -UFU/INSA Lyon.
+- 🎓 Master in Electrical Engineering - UFU.
+- 🍾 PHD in Electrical Engineering - UFU/UofA.
 
 ## Skills 👩‍💻
 
+- ⚡ ATPDraw
+- ⚙️ Finite Element Analysis
 - 🐍 Python.
-- 📈 R.
-- 🗄 SQL.
-- 💻 SAS.
 - 🧮 Power BI.
-- 🔮 Machine Learning.
 - 📊 Data Visualization
-- 🧪 Survival Analysis.
 
 ## Find me around the world 🌎
 
-Linkedin
-Instagram
-Blog
+[Linkedin](https://www.linkedin.com/in/arnaldo-rosentino/)
+[Instagram](https://www.instagram.com/arnaldo.rosentino/)
+[Twitter](https://twitter.com/arnaldojpr/status/635559102899425281)
 
 <!---
 arnaldorosentino/arnaldorosentino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
