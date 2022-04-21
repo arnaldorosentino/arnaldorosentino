@@ -2,24 +2,24 @@
 
 ## Who am I?
 
-*👩‍💻 Data Scientist 🥰.
-*📊 Business consultant.
-*📚 Researcher.
-*👩‍🏫 Teacher.
-*👩‍🎓 Bachelor of Statistics -UFSCar.
-*🎓 Master in Statistic - ICMC-USP.
-*🍾 PHD in Statistic - ICMC-USP.
+- 👩‍💻 Data Scientist 🥰.
+- 📊 Business consultant.
+- 📚 Researcher.
+- 👩‍🏫 Teacher.
+- 👩‍🎓 Bachelor of Statistics -UFSCar.
+- 🎓 Master in Statistic - ICMC-USP.
+- 🍾 PHD in Statistic - ICMC-USP.
 
 ## Skills 👩‍💻
 
-*🐍 Python.
-*📈 R.
-*🗄 SQL.
-*💻 SAS.
-*🧮 Power BI.
-*🔮 Machine Learning.
-*📊 Data Visualization
-*🧪 Survival Analysis.
+- 🐍 Python.
+- 📈 R.
+- 🗄 SQL.
+- 💻 SAS.
+- 🧮 Power BI.
+- 🔮 Machine Learning.
+- 📊 Data Visualization
+- 🧪 Survival Analysis.
 
 ## Find me around the world 🌎
 
